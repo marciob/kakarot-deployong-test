@@ -7,7 +7,7 @@
 | ✅ Passed   | `Constants.sol`     | Constants detected.                                                                                             |
 | ✅ Passed   | `Immutable.sol`     | Immutable variables                                                                                             |
 | ✅ Passed   | `SimpleStorage.sol` | Simple storage                                                                                                  |
-| ✅ Passed   | `EtherUnits.sol`    |                                                                                                                 |
+| ✅ Passed   | `EtherUnits.sol`    | Testin `ether` and `wei` key words                                                                              |
 | ✅ Passed   | `Gas.sol`           | Using up all of the gas to cause transaction to fail                                                            |
 | ✅ Passed   | `IfElse.sol`        |                                                                                                                 |
 | ✅ Passed   | `Loop.sol`          |                                                                                                                 |

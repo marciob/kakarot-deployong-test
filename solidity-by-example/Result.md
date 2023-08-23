@@ -7,8 +7,8 @@
 | ✅ Passed   | `Constants.sol`     | Constants detected.                                                                                             |
 | ✅ Passed   | `Immutable.sol`     | Immutable variables                                                                                             |
 | ✅ Passed   | `SimpleStorage.sol` | Simple storage                                                                                                  |
-| ✅ Passed   | `EtherUnits.sol`    |
-| ✅ Passed   | `Gas.sol`           |                                                                                                                 |
+| ✅ Passed   | `EtherUnits.sol`    |                                                                                                                 |
+| ✅ Passed   | `Gas.sol`           | Using up all of the gas to cause transaction to fail                                                            |
 | ✅ Passed   | `IfElse.sol`        |                                                                                                                 |
 | ✅ Passed   | `Loop.sol`          |                                                                                                                 |
 | PENDING     | `Array.sol`         |                                                                                                                 |
